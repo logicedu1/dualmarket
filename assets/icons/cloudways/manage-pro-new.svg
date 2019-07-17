@@ -1,0 +1,59 @@
+<svg id="Choice_Coupled_" data-name="Choice Coupled " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <style>
+      .cls-1, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #feb155;
+      }
+
+      .cls-4 {
+        fill: #ffd164;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <title>manage-pro</title>
+  <rect class="cls-1" width="75" height="75"/>
+  <g class="cls-2">
+    <g>
+      <circle class="cls-3" cx="37.5" cy="37.5" r="37.5"/>
+      <g>
+        <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-4" x="19.9" y="22.7" width="25.8" height="25"/>
+        <path id="Shape_14_copy" data-name="Shape 14 copy" class="cls-5" d="M21.1,31.8H45.8"/>
+        <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-6" d="M21.1,21.6H44.6a2.26,2.26,0,0,1,2.3,2.3V46.7A2.33,2.33,0,0,1,44.6,49H21.1a2.26,2.26,0,0,1-2.3-2.3V23.8A2.18,2.18,0,0,1,21.1,21.6Z"/>
+        <rect class="cls-7" x="29.3" y="27.3" width="25.8" height="25"/>
+        <path class="cls-5" d="M29.3,36.4H54"/>
+        <circle id="Ellipse_15_copy_3" data-name="Ellipse 15 copy 3" cx="26.1" cy="28.4" r="1.5"/>
+        <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-6" d="M30.5,26.1H54a2.26,2.26,0,0,1,2.3,2.3V51.2A2.33,2.33,0,0,1,54,53.5H30.5a2.26,2.26,0,0,1-2.3-2.3V28.4A2.2,2.2,0,0,1,30.5,26.1Z"/>
+        <circle cx="34.3" cy="32.9" r="1.5"/>
+        <circle id="Ellipse_15_copy" data-name="Ellipse 15 copy" cx="38" cy="32.9" r="1.5"/>
+        <circle id="Ellipse_15_copy-2" data-name="Ellipse 15 copy" cx="41.5" cy="32.9" r="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
