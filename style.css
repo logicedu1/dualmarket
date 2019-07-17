@@ -154,10 +154,24 @@ nav ul li:hover a.active:before{
     box-shadow: o 2px 4px rgba(255, 255, 255, 0.2);
     background-color: #fff;
 }
-.cards ul li .card-img img{
+.cards ul li .card-img{
+    position: relative;
+}
+.card-det-left-img{
+    position: relative;
+}
+.cards ul li .card-img > img{
     width: 100%;
 }
-
+.sold{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+}
+.cards ul li .card-img .sold img{
+    width: 100%;
+}
 .card-title,
 .card-author,
 .card-price,
@@ -283,7 +297,6 @@ footer{
 .follow-to ul li a i{
     font-size: 22px;
     border-radius: 50%;
-    border: 1px solid red;
     padding: 5px 10px;
 }
 
